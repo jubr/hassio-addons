@@ -2,7 +2,7 @@
 name: SimpleExample add-on
 version: "1.2.1"
 slug: example
-description: Example add-on
+description: SimpleExample add-on
 url: "https://github.com/jubr/hassio-addons/tree/main/example"
 arch:
   #- armhf
